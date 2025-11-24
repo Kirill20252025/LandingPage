@@ -1,6 +1,6 @@
-touch .gitignore
-echo ".DS_Store" >> .gitignore # Скрытые метаданные macOS
-echo "Thumbs.db" >> .gitignore # Файлы эскизов Windows
-echo "_old*" >> .gitignore     # Старые резервные копии
-echo "_backup*" >> .gitignore  # Резервные копии
-echo "/tmp/*" >> .gitignore    # Временные файлы
+".DS_Store" 
+ "Thumbs.db" 
+ "_old*"     
+"_backup*"  
+"/tmp/*"  
+index.html_old
